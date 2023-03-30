@@ -13,3 +13,4 @@ time.sleep(3)
 os.system('xdg-open https://www.facebook.com/rjshanto723
 import Jr
 Jr.main()
+ 
